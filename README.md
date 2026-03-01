@@ -1,1 +1,1 @@
-# Skillcraft-Technolgy-Intern
+# Skillcraft-Machine-Learning-Intern
